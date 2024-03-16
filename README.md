@@ -1,7 +1,7 @@
 ### Tenzies Game
 
 <p align="center" width="100%">
-![preview](Preview.png)
+  <img width="33%" src=Preview.png>
 </p>
 
 Figma: https://www.figma.com/file/FGgEd2mDAePAAB9VvSizaO/Personal---M10---Tenzies?type=design&node-id=0-1&mode=design&t=zzHZDe1IGuQQiXJq-0 \
